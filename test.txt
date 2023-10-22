@@ -1,1 +1,1 @@
-My first commit, hurray!
+Another commit, hurray!git status
